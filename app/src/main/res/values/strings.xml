@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agnello Winery</string>
+
+    <string name="wine_list_title">My Wines</string>
+    <string name="add_wine">Add Wine</string>
+    <string name="no_wines_added">No wines added.</string>
+    <string name="wine_deleted_message">Wine \'\'%1$s\'\' deleted.</string>
+    <string name="delete_action">Delete</string>
+
+    <string name="add_edit_wine_add_title">Add Wine</string>
+    <string name="add_edit_wine_edit_title">Edit Wine</string>
+    <string name="wine_name_label">Wine Name</string>
+    <string name="price_label">Price</string>
+    <string name="description_label">Description</string>
+    <string name="save_action">Save</string>
+    <string name="back_action">Back</string>
+    <string name="invalid_price">Invalid price</string>
+</resources>

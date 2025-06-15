@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agnello Vinheria</string>
+
+    <string name="wine_list_title">Meus Vinhos</string>
+    <string name="add_wine">Adicionar Vinho</string>
+    <string name="no_wines_added">Nenhum vinho adicionado.</string>
+    <string name="wine_deleted_message">Vinho \'\'%1$s\'\' excluído.</string>
+    <string name="delete_action">Excluir</string>
+
+    <string name="add_edit_wine_add_title">Adicionar Vinho</string>
+    <string name="add_edit_wine_edit_title">Editar Vinho</string>
+    <string name="wine_name_label">Nome do Vinho</string>
+    <string name="price_label">Preço</string>
+    <string name="description_label">Descrição</string>
+    <string name="save_action">Salvar</string>
+    <string name="back_action">Voltar</string>
+    <string name="invalid_price">Preço inválido</string>
+</resources>
